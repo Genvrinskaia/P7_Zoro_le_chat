@@ -33,7 +33,7 @@ download_model()
 
 # --- Chemins ---
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
-DATA_PATH = os.path.abspath(os.path.join(BASE_DIR, "..", "data"))
+DATA_PATH = os.path.join(BASE_DIR, "data_sample")
 
 # --- Vérifications ---
 print(f"[INFO] DATA_PATH = {DATA_PATH}")
