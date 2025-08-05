@@ -1,7 +1,7 @@
 
 huggingface_hub
 transformers
-gradio==3.50.2
+gradio==3.47.0
 torch
 torchvision
 matplotlib
@@ -10,4 +10,3 @@ numpy
 plotly
 opencv-python-headless
 requests
-pyaudio
